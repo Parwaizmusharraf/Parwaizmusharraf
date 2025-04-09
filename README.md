@@ -1,7 +1,7 @@
 
 - <h1 align="center">Hi 👋, I'm parwaiz musharraf</h1>
 <h3 align="center">A passionate Mern fulll stack developer from India</h3>
-<h3 align="center">i am currently doing a pytho internship from India</h3>
+<h4 align="center">i am currently doing a pytho internship from India</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parwaizmusharraf&label=Profile%20views&color=0e75b6&style=flat" alt="parwaizmusharraf" /> </p>
 
@@ -91,3 +91,8 @@ You can click the Preview link to take a look at your changes.
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<p align="left">Assalamu Alaikum <br>welcome to my Github profile !</p>
+
+###
+
