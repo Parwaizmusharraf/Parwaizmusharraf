@@ -1,5 +1,5 @@
 
-- <h1 align="center">Hi 👋, I'm parwaiz musharraf</h1>
+<h1 align="center">Hi 👋, I'm parwaiz musharraf</h1>
 <h3 align="center">A passionate Mern fulll stack developer from India</h3>
 <h4 align="center">i am currently doing a pytho internship from India</h4>
 
