@@ -25,7 +25,7 @@
 
 - 📄 Know about my experiences [https://portfolio-master-nine-chi.vercel.app/resume](https://portfolio-master-nine-chi.vercel.app/resume)
 
-- ⚡ Fun fact **⚡ Fun fact: I turn coffee ☕ into code 💻**
+- ⚡ Fun fact ** I turn coffee ☕ into code 💻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
