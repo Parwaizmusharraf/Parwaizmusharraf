@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm PARWAIZ MUSHARRAF</h1>
 <h3 align="center">A passionate Mern Fulll Stack Developer</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/53e5d94d-bf89-449f-a4a1-387db6a505ac" />
+<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/b6ce4873-7ba6-4db8-a698-d3624d8dbf04" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parwaizmusharraf&label=Profile%20views&color=0e75b6&style=flat" alt="parwaizmusharraf" /> </p>
 
