@@ -1,4 +1,4 @@
-|[logo](https://github.com/Parwaizmusharraf/Parwaizmusharraf/blob/main/Teal%20and%20Black%20Modern%20Programmer%20New%20LinkedIn%20Banner.png)
+![logo](https://github.com/Parwaizmusharraf/Parwaizmusharraf/blob/main/Teal%20and%20Black%20Modern%20Programmer%20New%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm PARWAIZ MUSHARRAF</h1>
 <h3 align="center">A passionate Mern Fulll Stack Developer</h3>
 
