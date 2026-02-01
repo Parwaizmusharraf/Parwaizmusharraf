@@ -1,11 +1,10 @@
+|[lodo]()
 <h1 align="center">Hi 👋, I'm PARWAIZ MUSHARRAF</h1>
 <h3 align="center">A passionate Mern Fulll Stack Developer</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.aibrews.in/content/images/2026/01/Vibe_coding.gif">
+<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/53e5d94d-bf89-449f-a4a1-387db6a505ac" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parwaizmusharraf&label=Profile%20views&color=0e75b6&style=flat" alt="parwaizmusharraf" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parwaizmusharraf" alt="parwaizmusharraf" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/parwaizmusharr8" target="blank"><img src="https://img.shields.io/twitter/follow/parwaizmusharr8?logo=twitter&style=for-the-badge" alt="parwaizmusharr8" /></a> </p>
 
